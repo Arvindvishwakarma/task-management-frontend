@@ -1,0 +1,4 @@
+.mainContainer {
+    background: rgb(183, 218, 237);
+    background: linear-gradient(180deg, rgba(183, 218, 237, 1) 33%, rgba(255, 255, 255, 1) 100%);
+}
